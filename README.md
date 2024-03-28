@@ -33,7 +33,3 @@ Weather data provided by OpenWeatherMap.
 
 ## License
 This project is open-source and available under the MIT License.
-
-## Contact
-
-For any questions or feedback, please contact Kamaldeen Usman.
