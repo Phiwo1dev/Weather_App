@@ -92,7 +92,7 @@ body {
 }
 .error {
     text-align: left;
-    color: red;
+    color: pink;
     margin-top: 5px;
     margin-left: 5px;
     display: none;
